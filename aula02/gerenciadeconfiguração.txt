@@ -16,7 +16,8 @@ processo completo de forma automatizada e rodando testes disponíveis afim de en
 de ambos afim de realizar um projeto de software em conjunto com maior agilidade.
 
 	Mantém relação, porque através da integração contínua e suas ferramentes, o processo de DevOps é desenvolvido com melhor comunicação
-e culturalmente melhor e mais rápido desenvolvido.
+e culturalmente melhor e mais rápido programado
+.
 
 	
 
