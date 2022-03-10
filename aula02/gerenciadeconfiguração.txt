@@ -1,0 +1,27 @@
+	É importante pois qualquer mudança feita será documentada impedindo assim a perda de qualquer desenvolvimento já salvo. 
+Ou seja, mentém o sistema de forma desejada. Outro ponto positivo do Gerenciamento de Configuração é a automação, executando 
+todo o processo automaticamente. 
+
+	É o acoplamento de códigos desenvolvidos por desenvolvedores e operadores de software contínuamente em um
+repositório central. 
+
+	Jenkins é uma das ferramentes que pode ser usada para verificar o débito técnico, ela atua automatizando partes
+do desenvolvimento do software tornando mais fácil a entrega, construção e integração do código. Outra ferramenta utilizada
+também é a SonarQube que trabalha fazendo a inspeção contúnia durante o desenvolvimento do código.
+
+	Assim como no débito técnico o Jenkins também pode ser usado como uma ferramenta  na integração contínua, pois constrói o 
+processo completo de forma automatizada e rodando testes disponíveis afim de encontrar antecipadamente erros e reduzir riscos.
+
+	DevOps é o processo de interação entre desenvolvedos e operadores técnicos com ferramentas, conhecimento de desenvolvimento cultural 
+de ambos afim de realizar um projeto de software em conjunto com maior agilidade.
+
+	Mantém relação, porque através da integração contínua e suas ferramentes, o processo de DevOps é desenvolvido com melhor comunicação
+e culturalmente melhor e mais rápido desenvolvido.
+
+	
+
+	
+
+	
+
+	 
