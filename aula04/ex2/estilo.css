@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+    font-family: cursive;
+}
+
+h1{
+    text-align: center;
+    color: midnightblue;
+}
+
+p{
+    color: black;
+}
+
+h3{
+    color: midnightblue;
+}
+
+button{
+    margin-left: 50px;
+}
