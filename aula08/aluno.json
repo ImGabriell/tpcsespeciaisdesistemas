@@ -1,0 +1,73 @@
+[
+    {
+        "nome":"Isaac Crona",
+        "idade":46,
+        "email":"Angie77@yahoo.com",
+        "celular":"(487) 474-7724 x699",
+        "id":"1",
+        "ativextra":
+        [
+            {
+                "nome":"nome 1",
+                "turno":"turno 1",
+                "id":"1",
+                "alunoId":"1"
+            },
+                
+            {
+                "nome":"nome 4",
+                "turno":"turno 4",
+                "id":"4",
+                "alunoId":"1"
+            }
+        ]        
+    },
+        
+    {
+        "nome":"Yvonne Ullrich",
+        "idade":27,
+        "email":"Jameson72@hotmail.com",
+        "celular":"(456) 727-1813 x27267",
+        "id":"2",
+        "ativextra":
+        [
+            {
+                "nome":"nome 2",
+                "turno":"turno 2",
+                "id":"2",
+                "alunoId":"2"
+            },
+                
+            {
+                "nome":"nome 5",
+                "turno":"turno 5",
+                "id":"5",
+                "alunoId":"2"
+            }
+        ]     
+    },
+    
+    {
+        "nome":"Billy Gleichner",
+        "idade":45,
+        "email":"Theo.Mosciski@hotmail.com",
+        "celular":"(409) 286-4429",
+        "id":"3",
+        "ativextra":
+        [
+            {
+                "nome":"nome 3",
+                "turno":"turno 3",
+                "id":"3",
+                "alunoId":"3"
+            },
+            
+            {
+                "nome":"nome 6",
+                "turno":"turno 6",
+                "id":"6",
+                "alunoId":"3"
+            }
+        ]
+    }
+]

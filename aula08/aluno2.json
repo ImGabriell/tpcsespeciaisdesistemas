@@ -1,0 +1,26 @@
+
+[
+    {
+        "nome"  : "ImGbriell",
+        "idade" : "19",
+        "email" : "ImGabriell@gmail.com",
+        "statusativextra" : true,
+        "ativextra" : ["Natação","Judo"]
+    },
+
+    {
+        "nome"  : "Babdln",
+        "idade" : "19",
+        "email" : "babdln@gmail.com",
+        "statusativextra" : false,
+        "ativextra" : [null]
+    },
+
+    {
+        "nome"  : "Antônio",
+        "idade" : "20",
+        "email" : "Antônio@gmail.com",
+        "statusativextra" : true,
+        "ativextra" : ["cheiração","rolê"]
+    }
+]
